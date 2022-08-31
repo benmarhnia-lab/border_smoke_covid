@@ -29,6 +29,8 @@ Google Community Mobility Reports: https://www.google.com/covid19/mobility/
 -Unites States- 2020_US_Region_Mobility_Report.csv
 
 ## Code
+Smoke estimation
+Mexico: Wildfire_smoke_estimation_Mexico
 
 STATA synthetic control analysis
 San Diego- Wildfire_smoke_covid_San_Diego.do
